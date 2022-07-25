@@ -1,0 +1,11 @@
+.titleexo{
+    justify-content: center;
+     display: flex;
+    color: aqua;
+}
+.identity{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: chartreuse;
+}
